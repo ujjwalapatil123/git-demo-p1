@@ -6,7 +6,7 @@ def substract(x,y):
     return x-y    #on Feature1_local branch
     #multiply implementation
 def multiply(x,y):
-    pass
+    return x*y    #on local branch
     #Divide implementation
 def divide(x,y):
     pass

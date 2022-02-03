@@ -9,4 +9,4 @@ def multiply(x,y):
     pass
     #Divide implementation
 def divide(x,y):
-    pass
+    return x/y    #on Feature2-local
